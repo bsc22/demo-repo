@@ -1,1 +1,3 @@
 This is my first commit!
+
+This text should only be in "my-new-branch" not in "main" 
